@@ -1,0 +1,724 @@
+{
+    "vistas": [
+        {
+            "emote": "/Salute",
+            "entry": "63",
+            "location": "Northern Thanalan",
+            "map_location": "(x22.2,y25.7)",
+            "name": "East Watchtower",
+            "time": "5-8AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Sit",
+            "entry": "24",
+            "location": "Eastern La Noscea",
+            "map_location": "(x32.6,y23.5)",
+            "name": "Hidden Falls",
+            "time": "8AM-12PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Sit",
+            "entry": "80",
+            "location": "Mor Dhona",
+            "map_location": "(x26.1,y11.2)",
+            "name": "The Keeper of the Lake",
+            "time": "5-6PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "17",
+            "location": "Central Thanalan",
+            "map_location": "(x15,y22)",
+            "name": "The Ruins of Sil'dih",
+            "time": "8AM-12PM",
+            "weather": "Fog"
+        },
+        {
+            "emote": "/Pray",
+            "entry": "12",
+            "location": "East Shroud",
+            "map_location": "(x17.6,y18.2)",
+            "name": "The Sanctum of the Twelve",
+            "time": "8AM-12PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "46",
+            "location": "South Shroud",
+            "map_location": "(x33.3,y23.9)",
+            "name": "Urth's Gift",
+            "time": "12-5PM",
+            "weather": "Fog"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "19",
+            "location": "Eastern Thanalan",
+            "map_location": "(x14,y18)",
+            "name": "The Invisible City",
+            "time": "8AM-12PM",
+            "weather": "Clouds"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "37",
+            "location": "Gridania",
+            "map_location": "(x14,y14)",
+            "name": "The Carline Canopy",
+            "time": "8AM-12PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "27",
+            "location": "Western La Noscea",
+            "map_location": "(x17.1,y36.2)",
+            "name": "The Ship Graveyard",
+            "time": "6PM-5AM",
+            "weather": "Gales"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "4",
+            "location": "Middle La Noscea",
+            "map_location": "(x16.0,y17.3)",
+            "name": "The Skylift",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "33",
+            "location": "Outer La Noscea",
+            "map_location": "(x12,y15)",
+            "name": "The Floating City of Nym",
+            "time": "6PM-5AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "32",
+            "location": "Upper La Noscea",
+            "map_location": "(x29,y25)",
+            "name": "Jijiroon's Trading Post",
+            "time": "6PM-5AM",
+            "weather": "Thunderstorms"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "40",
+            "location": "Central Shroud",
+            "map_location": "(x13,y23)",
+            "name": "Haukke Manor",
+            "time": "6PM-5AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "2",
+            "location": "Limsa Lominsa",
+            "map_location": "(x7,y15)",
+            "name": "The Astalicia",
+            "time": "6PM-5AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "75",
+            "location": "Coerthas Central Highlands",
+            "map_location": "(x26.5,y17.7)",
+            "name": "Camp Dragonhead",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "74",
+            "location": "Coerthas Central Highlands",
+            "map_location": "(x2.2,y21.4)",
+            "name": "Snowcloak",
+            "time": "8AM-12PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "34",
+            "location": "Outer La Noscea",
+            "map_location": "(x17,y16)",
+            "name": "Camp Overlook",
+            "time": "5-8AM",
+            "weather": "Clouds"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "50",
+            "location": "North Shroud",
+            "map_location": "(x15.4,y27.2)",
+            "name": "Alder Springs",
+            "time": "8AM-12PM",
+            "weather": "Clouds"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "21",
+            "location": "Middle La Noscea",
+            "map_location": "(x20.0,y13.1)",
+            "name": "Woad Whisper Canyon",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "78",
+            "location": "Mor Dhona",
+            "map_location": "(x27.4,y8.0)",
+            "name": "The Crystal Tower",
+            "time": "6PM-5AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "9",
+            "location": "Gridania",
+            "map_location": "(x12,y8)",
+            "name": "The Leatherworkers' Guild",
+            "time": "12-5PM",
+            "weather": "Clouds"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "8",
+            "location": "Western La Noscea",
+            "map_location": "(x29,y30)",
+            "name": "Brewer's Beacon",
+            "time": "5-8AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "70",
+            "location": "Coerthas Central Highlands",
+            "map_location": "(x11.7,y15.8)",
+            "name": "The Frozen Fang",
+            "time": "8AM-12PM",
+            "weather": "Blizzards"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "30",
+            "location": "Upper La Noscea",
+            "map_location": "(x30.8,y22.4)",
+            "name": "Camp Bronze Lake",
+            "time": "5-6PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Pray",
+            "entry": "57",
+            "location": "Eastern Thanalan",
+            "map_location": "(x25,y14)",
+            "name": "Thal's Respite",
+            "time": "6PM-5AM",
+            "weather": "Showers"
+        },
+        {
+            "emote": "/Pray",
+            "entry": "58",
+            "location": "Southern Thanalan",
+            "map_location": "(x12,y22)",
+            "name": "Nald's Reflection",
+            "time": "5-8AM",
+            "weather": "Fog"
+        },
+        {
+            "emote": "/Pray",
+            "entry": "3",
+            "location": "Middle La Noscea",
+            "map_location": "(x20.3,y19.1)",
+            "name": "Seasong Grotto",
+            "time": "5-8AM",
+            "weather": "Rain"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "73",
+            "location": "Coerthas Central Highlands",
+            "map_location": "(x7.9,y31.3)",
+            "name": "The Fury's Gaze",
+            "time": "6PM-5AM",
+            "weather": "Blizzards"
+        },
+        {
+            "emote": "/Sit",
+            "entry": "36",
+            "location": "Outer La Noscea",
+            "map_location": "(x15,y9)",
+            "name": "The Hermit's Hovel",
+            "time": "6PM-5AM",
+            "weather": "Rain"
+        },
+        {
+            "emote": "/Comfort",
+            "entry": "18",
+            "location": "Eastern Thanalan",
+            "map_location": "(x19,y24)",
+            "name": "The Lonely Giant",
+            "time": "5-6PM",
+            "weather": "Rain/Showers"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "15",
+            "location": "Ul'dah",
+            "map_location": "(x11,y11)",
+            "name": "The Gold Court",
+            "time": "12-5PM",
+            "weather": "Clouds"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "53",
+            "location": "Central Thanalan",
+            "map_location": "(x21,y17)",
+            "name": "Black Brush Station",
+            "time": "6PM-5AM",
+            "weather": "Dust Storms"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "38",
+            "location": "Gridania",
+            "map_location": "(x14.2,y5.9)",
+            "name": "The Lancer's Guild",
+            "time": "5-8AM",
+            "weather": "Rain"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "6",
+            "location": "Lower La Noscea",
+            "map_location": "(x23,y40)",
+            "name": "The Salt Strand",
+            "time": "6PM-5AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "7",
+            "location": "Lower La Noscea",
+            "map_location": "(x33,y19)",
+            "name": "Red Rooster Stead",
+            "time": "5-8AM",
+            "weather": "Fog"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "68",
+            "location": "Coerthas Central Highlands",
+            "map_location": "(x25.4,y29.8)",
+            "name": "The Nail",
+            "time": "5-6PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "39",
+            "location": "Central Shroud",
+            "map_location": "(x23.4,y19.9)",
+            "name": "The Bannock",
+            "time": "5-8AM",
+            "weather": "Rain"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "13",
+            "location": "East Shroud",
+            "map_location": "(x22,y26)",
+            "name": "Little Solace",
+            "time": "6PM-5AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "1",
+            "location": "Limsa Lominsa",
+            "map_location": "(x9.5,y7.8)",
+            "name": "Barracuda Piers",
+            "time": "8AM-12PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "5",
+            "location": "Middle La Noscea",
+            "map_location": "(x25.3,y27.5)",
+            "name": "La Thagran Eastroad",
+            "time": "8AM-12PM",
+            "weather": "Clouds"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "10",
+            "location": "Gridania",
+            "map_location": "(x10,y6)",
+            "name": "Apkallu Falls",
+            "time": "6PM-5AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "49",
+            "location": "North Shroud",
+            "map_location": "(x16,y31)",
+            "name": "Fallen Neurolink",
+            "time": "6PM-5AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "67",
+            "location": "Northern Thanalan",
+            "map_location": "(x26,y22)",
+            "name": "Abandoned Amajina Mythril Mine",
+            "time": "6PM-5AM",
+            "weather": "Fog"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "44",
+            "location": "South Shroud",
+            "map_location": "(x17.8,y20.1)",
+            "name": "Buscarron's Druthers",
+            "time": "8AM-12PM",
+            "weather": "Thunderstorms"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "66",
+            "location": "Northern Thanalan",
+            "map_location": "(x20.0,y17.6)",
+            "name": "Raubahn's Push",
+            "time": "8AM-12PM",
+            "weather": "Clouds"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "65",
+            "location": "Northern Thanalan",
+            "map_location": "(x20.8,y22.5)",
+            "name": "Bluefog",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "51",
+            "location": "Western Thanalan",
+            "map_location": "(x8,y5)",
+            "name": "Castrum Marinum",
+            "time": "5-6PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "29",
+            "location": "Western La Noscea",
+            "map_location": "(x19.4,y23.0)",
+            "name": "Tidegate",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "45",
+            "location": "South Shroud",
+            "map_location": "(x14.7,y33.9)",
+            "name": "South Shroud Landing",
+            "time": "8AM-12PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "42",
+            "location": "Central Shroud",
+            "map_location": "(x26.5,y18.8)",
+            "name": "Rainbow Bridge",
+            "time": "11AM-1PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Sit",
+            "entry": "54",
+            "location": "Central Thanalan",
+            "map_location": "(x18.5,y26.1)",
+            "name": "Gate of Nald",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "47",
+            "location": "South Shroud",
+            "map_location": "(x25,y21)",
+            "name": "Quarrymill",
+            "time": "5-8AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "25",
+            "location": "Eastern La Noscea",
+            "map_location": "(x29.6,y33.8)",
+            "name": "Gullperch Tower",
+            "time": "6PM-5AM",
+            "weather": "Rain"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "60",
+            "location": "Southern Thanalan",
+            "map_location": "(x21.3,y38.6)",
+            "name": "The Sagolii Desert",
+            "time": "12-5PM",
+            "weather": "Heat Waves"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "77",
+            "location": "Mor Dhona",
+            "map_location": "(x9.8,y13.5)",
+            "name": "Castrum Centri",
+            "time": "12-5PM",
+            "weather": "Gloom"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "79",
+            "location": "Mor Dhona",
+            "map_location": "(x18.6,y17.7)",
+            "name": "Rathefrost",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "28",
+            "location": "Western La Noscea",
+            "map_location": "(x22.8,y22.4)",
+            "name": "Camp Skull Valley",
+            "time": "8AM-12PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "64",
+            "location": "Northern Thanalan",
+            "map_location": "(x20,y29)",
+            "name": "Ceruleum Pipeline",
+            "time": "6PM-5AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "35",
+            "location": "Outer La Noscea",
+            "map_location": "(x23,y11)",
+            "name": "U'Ghamaro Mines",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "23",
+            "location": "Lower La Noscea",
+            "map_location": "(x31.5,y12.7)",
+            "name": "The Grey Fleet",
+            "time": "12-5PM",
+            "weather": "Rain"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "55",
+            "location": "Eastern Thanalan",
+            "map_location": "(x30.7,y26.5)",
+            "name": "The Burning Wall",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "56",
+            "location": "Eastern Thanalan",
+            "map_location": "(x10.,y16.7)",
+            "name": "The Golden Bazaar",
+            "time": "8AM-12PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "59",
+            "location": "Southern Thanalan",
+            "map_location": "(x19.3,y20.5)",
+            "name": "Zahar'ak",
+            "time": "5-8AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "41",
+            "location": "Central Shroud",
+            "map_location": "(x16,y22)",
+            "name": "The Guardian Tree",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "43",
+            "location": "East Shroud",
+            "map_location": "(x20,y10)",
+            "name": "The Seedbed",
+            "time": "6PM-5AM",
+            "weather": "Thunder"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "22",
+            "location": "Middle La Noscea",
+            "map_location": "(x25.7,y17)",
+            "name": "Summerford Farms",
+            "time": "5-8AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Psych",
+            "entry": "62",
+            "location": "Southern Thanalan",
+            "map_location": "(x14.6,y26.5)",
+            "name": "Minotaur Malm",
+            "time": "5-8AM",
+            "weather": "Heat Waves"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "69",
+            "location": "Coerthas Central Highlands",
+            "map_location": "(x25,y29)",
+            "name": "The Observatorium",
+            "time": "6PM-5AM",
+            "weather": "Fog"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "48",
+            "location": "North Shroud",
+            "map_location": "(x18,y19)",
+            "name": "Ixali Logging Grounds",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Pray",
+            "entry": "20",
+            "location": "Eastern Thanalan",
+            "map_location": "(x21.0,y20.7)",
+            "name": "Highbridge",
+            "time": "5-8AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Sit",
+            "entry": "11",
+            "location": "Central Shroud",
+            "map_location": "(x21.8,y21.8)",
+            "name": "Bentbranch Meadows",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Salute",
+            "entry": "14",
+            "location": "Ul'dah",
+            "map_location": "(x11,y11)",
+            "name": "Royal Promenade",
+            "time": "5-8AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Pray",
+            "entry": "26",
+            "location": "Western La Noscea",
+            "map_location": "(x26.9,y26.6)",
+            "name": "The Navigator",
+            "time": "5-6PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "72",
+            "location": "Coerthas Central Highlands",
+            "map_location": "(x7,y28)",
+            "name": "Boulder Downs",
+            "time": "5-6PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Point",
+            "entry": "52",
+            "location": "Western Thanalan",
+            "map_location": "(x124,y148)",
+            "name": "Vesper Bay",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "76",
+            "location": "Coerthas Central Highlands",
+            "map_location": "(x28.2,y10.3)",
+            "name": "The Steel Vigil",
+            "time": "5-8AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "61",
+            "location": "Southern Thanalan",
+            "map_location": "(x23.8,y11.8)",
+            "name": "The Sunken Temple of Qarn",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "16",
+            "location": "Western Thanalan",
+            "map_location": "(x22.3,y22.3)",
+            "name": "The Jewel of the Desert",
+            "time": "6PM-5AM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "31",
+            "location": "Upper La Noscea",
+            "map_location": "(x12.9,y22.0)",
+            "name": "Thalaos",
+            "time": "12-5PM",
+            "weather": "Fair/Clear"
+        },
+        {
+            "emote": "/Lookout",
+            "entry": "71",
+            "location": "Coerthas Central Highlands",
+            "map_location": "(x12.8,y17.3)",
+            "name": "The Holy See of Ishgard",
+            "time": "5-8AM",
+            "weather": "Fair/Clear"
+        }
+    ]
+}

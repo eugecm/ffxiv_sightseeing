@@ -37,7 +37,7 @@ def run():
         return
 
     available_vistas.sort(key=lambda v: int(v.entry))
-    print('The following vistas are available now:\n\n')
+    print('\nThe following vistas are available now:\n')
     print('ENTRY', 'TIME', 'LOCATION', 'WEATHER', sep='\t')
     for vista in available_vistas:
         print(vista.entry, vista.time, vista.location, vista.weather, sep='\t')

@@ -24,6 +24,8 @@ class Vista:
     @staticmethod
     def _to_time_int(time_str):
         if time_str.endswith('AM'):
+            if time_str == '12AM':
+                return 0
             return int(time_str[:-2])
         elif time_str.endswith('PM'):
             if time_str == '12PM':
@@ -49,7 +51,7 @@ class Vista:
         hour_end = self._to_time_int(raw_end)
 
         if hour_end < hour_start:
-            return hour_end > hour_now <= hour_start
+            return (hour_now > hour_start) or (hour_now < hour_end)
         else:
             return hour_start <= hour_now < hour_end
 

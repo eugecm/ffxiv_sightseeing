@@ -45,7 +45,7 @@ class Vista:
 
         # If the start time does not end in AM/PM, use the suffix from end_time
         if not raw_start.endswith('M'):
-            hour_start = self._to_time_int(raw_start + raw_end[:-2])
+            hour_start = self._to_time_int(raw_start + raw_end[-2:])
 
         # End time will always have a suffix so we can trust this is accurate
         hour_end = self._to_time_int(raw_end)

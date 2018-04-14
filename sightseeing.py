@@ -15,32 +15,31 @@ def run():
     vistas = load_vistas(args.vistasdata)
 
     now = datetime.utcnow() + timedelta(hours=args.utcdiff)
-    eorzea_timestamp = now.timestamp() * 20.571428571428573;
-    weather_data = weather_provider.weather_at(now.timestamp())
-
-    # TODO: This is naive. Can be made faster
-    available_vistas = []
-    for location, weather in weather_data.items():
-        for vista in vistas:
-            if vista.location != location:
-                continue
-            if not vista.is_available(weather, eorzea_timestamp):
-                continue
-            available_vistas.append(vista)
+    now = now.replace(second=0, microsecond=0)
 
     print('Go to https://ffxiv.consolegameswiki.com/wiki/Sightseeing_Log')
-    eorzea_time = datetime.fromtimestamp(eorzea_timestamp)
-    print('It is', eorzea_time, '(Eorzea time)')
 
-    if len(available_vistas) == 0:
-        print('No vistas are available now. Try again later')
-        return
+    print('\nThe following vistas will be available:\n')
+    print('REAL_TIME', 'ENTRY', 'TIME', 'LOCATION', 'WEATHER', sep='\t')
 
-    available_vistas.sort(key=lambda v: int(v.entry))
-    print('\nThe following vistas are available now:\n')
-    print('ENTRY', 'TIME', 'LOCATION', 'WEATHER', sep='\t')
-    for vista in available_vistas:
-        print(vista.entry, vista.time, vista.location, vista.weather, sep='\t')
+    to_see = {vista.entry for vista in vistas}
+    tick = 0
+    while len(to_see) > 0:
+        then = (now.timestamp() + (tick * 3 * 60))
+        eorzea_timestamp = then * 20.571428571428573;
+        weather_data = weather_provider.weather_at(then)
+        for location, weather in weather_data.items():
+            for vista in vistas:
+                if vista.entry not in to_see:
+                    continue
+                if vista.location != location:
+                    continue
+                if not vista.is_available(weather, eorzea_timestamp):
+                    continue
+                print(datetime.fromtimestamp(then), vista.entry, vista.time, vista.location, vista.weather, sep='\t')
+                to_see.remove(vista.entry)
+        tick += 1
+
 
 if __name__ == '__main__':
     run()

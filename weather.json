@@ -315,7 +315,7 @@
     },
     "zoneWeather": {
         "Azys Lla": [
-            "Fair Skies",
+            "Fair",
             "Clouds",
             "Thunder"
         ],
@@ -324,14 +324,14 @@
             "Rain",
             "Fog",
             "Clouds",
-            "Fair Skies",
-            "Clear Skies",
-            "Fair Skies"
+            "Fair",
+            "Clear",
+            "Fair"
         ],
         "Central Thanalan": [
             "Dust Storms",
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Rain"
@@ -339,16 +339,16 @@
         "Coerthas Central Highlands": [
             "Blizzards",
             "Snow",
-            "Fair Skies",
-            "Clear Skies",
+            "Fair",
+            "Clear",
             "Clouds",
             "Fog"
         ],
         "Coerthas Western Highlands": [
             "Blizzards",
             "Snow",
-            "Fair Skies",
-            "Clear Skies",
+            "Fair",
+            "Clear",
             "Clouds",
             "Fog"
         ],
@@ -357,21 +357,21 @@
             "Rain",
             "Fog",
             "Clouds",
-            "Fair Skies",
-            "Clear Skies",
-            "Fair Skies"
+            "Fair",
+            "Clear",
+            "Fair"
         ],
         "Eastern La Noscea": [
             "Fog",
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Rain",
             "Showers"
         ],
         "Eastern Thanalan": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Rain",
@@ -381,22 +381,22 @@
             "Rain",
             "Fog",
             "Clouds",
-            "Fair Skies",
-            "Clear Skies",
-            "Fair Skies"
+            "Fair",
+            "Clear",
+            "Fair"
         ],
         "Idyllshire": [
             "Clouds",
             "Fog",
             "Rain",
             "Showers",
-            "Clear Skies",
-            "Fair Skies"
+            "Clear",
+            "Fair"
         ],
         "Ishgard": [
             "Snow",
-            "Fair Skies",
-            "Clear Skies",
+            "Fair",
+            "Clear",
             "Clouds",
             "Fog"
         ],
@@ -404,28 +404,28 @@
             "Rain",
             "Fog",
             "Clouds",
-            "Fair Skies",
-            "Clear Skies"
+            "Fair",
+            "Clear"
         ],
         "Limsa Lominsa": [
             "Clouds",
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Fog",
             "Rain"
         ],
         "Lower La Noscea": [
             "Clouds",
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Wind",
             "Fog",
             "Rain"
         ],
         "Middle La Noscea": [
             "Clouds",
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Wind",
             "Fog",
             "Rain"
@@ -434,8 +434,8 @@
             "Clouds",
             "Fog",
             "Gloom",
-            "Clear Skies",
-            "Fair Skies"
+            "Clear",
+            "Fair"
         ],
         "North Shroud": [
             "Fog",
@@ -443,25 +443,25 @@
             "Rain",
             "Fog",
             "Clouds",
-            "Fair Skies",
-            "Clear Skies"
+            "Fair",
+            "Clear"
         ],
         "Northern Thanalan": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog"
         ],
         "Outer La Noscea": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Rain"
         ],
         "Rhalgr's Reach": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Thunder"
@@ -470,8 +470,8 @@
             "Rain",
             "Fog",
             "Clouds",
-            "Fair Skies",
-            "Clear Skies"
+            "Fair",
+            "Clear"
         ],
         "South Shroud": [
             "Fog",
@@ -479,13 +479,13 @@
             "Thunder",
             "Fog",
             "Clouds",
-            "Fair Skies",
-            "Clear Skies"
+            "Fair",
+            "Clear"
         ],
         "Southern Thanalan": [
             "Heat Waves",
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog"
         ],
@@ -495,18 +495,18 @@
             "Rain",
             "Fog",
             "Clouds",
-            "Fair Skies",
-            "Clear Skies"
+            "Fair",
+            "Clear"
         ],
         "The Churning Mists": [
             "Clouds",
             "Gales",
             "Umbral Static",
-            "Clear Skies",
-            "Fair Skies"
+            "Clear",
+            "Fair"
         ],
         "The Diadem": [
-            "Fair Skies",
+            "Fair",
             "Fog",
             "Wind",
             "Umbral Wind"
@@ -516,27 +516,27 @@
             "Fog",
             "Thunder",
             "Dust Storms",
-            "Clear Skies",
-            "Fair Skies"
+            "Clear",
+            "Fair"
         ],
         "The Dravanian Hinterlands": [
             "Clouds",
             "Fog",
             "Rain",
             "Showers",
-            "Clear Skies",
-            "Fair Skies"
+            "Clear",
+            "Fair"
         ],
         "The Fringes": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Thunder"
         ],
         "The Goblet": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Rain"
@@ -546,28 +546,28 @@
             "Rain",
             "Fog",
             "Clouds",
-            "Fair Skies",
-            "Clear Skies",
-            "Fair Skies"
+            "Fair",
+            "Clear",
+            "Fair"
         ],
         "The Lochs": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Thunderstorms"
         ],
         "The Mist": [
             "Clouds",
-            "Clear Skies",
-            "Fair Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
+            "Fair",
             "Fog",
             "Rain"
         ],
         "The Peaks": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Wind",
@@ -577,27 +577,27 @@
             "Thunder",
             "Wind",
             "Clouds",
-            "Fair Skies",
-            "Clear Skies"
+            "Fair",
+            "Clear"
         ],
         "The Sea of Clouds": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Wind",
             "Umbral Wind"
         ],
         "Ul'dah": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Rain"
         ],
         "Upper La Noscea": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Thunder",
@@ -605,15 +605,15 @@
         ],
         "Western La Noscea": [
             "Fog",
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Wind",
             "Gales"
         ],
         "Western Thanalan": [
-            "Clear Skies",
-            "Fair Skies",
+            "Clear",
+            "Fair",
             "Clouds",
             "Fog",
             "Rain"
@@ -623,8 +623,8 @@
             "Rain",
             "Fog",
             "Clouds",
-            "Fair Skies",
-            "Clear Skies"
+            "Fair",
+            "Clear"
         ]
     }
 }
